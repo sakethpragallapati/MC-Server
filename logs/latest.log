@@ -1,241 +1,31 @@
-[11:58:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[11:58:44] [ServerMain/INFO]: Loaded 1515 recipes
-[11:58:44] [ServerMain/INFO]: Loaded 1617 advancements
-[11:58:45] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[11:58:45] [Server thread/INFO]: Loading properties
-[11:58:45] [Server thread/INFO]: Default game type: SURVIVAL
-[11:58:45] [Server thread/INFO]: Generating keypair
-[11:58:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:58:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:58:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:58:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:58:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:58:45] [Server thread/INFO]: Preparing level "world"
-[11:58:45] [Server thread/INFO]: Loading 0 persistent chunks...
-[11:58:45] [Server thread/INFO]: Preparing spawn area: 100%
-[11:58:45] [Server thread/INFO]: Time elapsed: 41 ms
-[11:58:45] [Server thread/INFO]: Done (0.437s)! For help, type "help"
-[11:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:58:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[11:59:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:31:17] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:59796] logged in with entity id 95 at (242.22928759890604, 70.0, 394.7898727892697)
-[12:31:17] [Server thread/INFO]: COIN-DAAL joined the game
-[12:44:35] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[12:44:35] [Server thread/INFO]: COIN-DAAL left the game
-[12:44:58] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:59568] logged in with entity id 3453 at (-76.44094262216582, 70.0, 906.0000631322614)
-[12:44:58] [Server thread/INFO]: COIN-DAAL joined the game
-[12:46:42] [Server thread/WARN]: COIN-DAAL moved too quickly! -2.881150456865612,0.04353562014750878,9.806049614257745
-[12:47:06] [Server thread/INFO]: COIN-DAAL lost connection: Timed out
-[12:47:06] [Server thread/INFO]: COIN-DAAL left the game
-[12:47:10] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:59701] logged in with entity id 4489 at (-136.14142407757572, 73.02442408821369, 1045.5567753667417)
-[12:47:10] [Server thread/INFO]: COIN-DAAL joined the game
-[12:57:48] [Server thread/WARN]: COIN-DAAL moved too quickly! 10.17306513096355,1.127890238205481,-1.3070474197942303
-[13:00:55] [Server thread/WARN]: COIN-DAAL moved too quickly! -9.859348757102453,1.4199999868869781,2.885524317280101
-[13:10:35] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[13:10:35] [Server thread/INFO]: COIN-DAAL left the game
-[13:10:40] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:62805] logged in with entity id 13704 at (1167.5478860143837, 82.0, 670.5741369186529)
-[13:10:40] [Server thread/INFO]: COIN-DAAL joined the game
-[13:12:26] [Server thread/INFO]: GdBoy26[/100.79.160.35:64753] logged in with entity id 14187 at (275.17414560576043, 96.0, 409.7272421281384)
-[13:12:26] [Server thread/INFO]: GdBoy26 joined the game
-[13:22:44] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[13:22:44] [Server thread/INFO]: COIN-DAAL left the game
-[13:24:25] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:54758] logged in with entity id 18930 at (275.72878191497796, 96.0, 409.1831625899715)
-[13:24:25] [Server thread/INFO]: COIN-DAAL joined the game
-[13:30:18] [Server thread/INFO]: COIN-DAAL has made the advancement [A Seedy Place]
-[13:32:54] [Server thread/INFO]: [Not Secure] [Server] hello guys
-[13:33:34] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[13:33:34] [Server thread/INFO]: <--[HERE]
-[13:33:41] [Server thread/INFO]: [Not Secure] <COIN-DAAL> nigga come
-[13:33:42] [Server thread/INFO]: [Not Secure] <GdBoy26> aa re rai
-[13:34:06] [Server thread/INFO]: [Not Secure] [Server] Ill have lunch and join :)
-[13:34:08] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[13:34:08] [Server thread/INFO]: GdBoy26 left the game
-[13:34:11] [Server thread/INFO]: GdBoy26[/100.79.160.35:54756] logged in with entity id 20790 at (337.7381221444981, 87.0, 408.3062444050516)
-[13:34:11] [Server thread/INFO]: GdBoy26 joined the game
-[13:45:31] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[13:45:31] [Server thread/INFO]: COIN-DAAL left the game
-[13:45:35] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:51934] logged in with entity id 23600 at (310.4810025352047, 62.0, 309.98883652755745)
-[13:45:35] [Server thread/INFO]: COIN-DAAL joined the game
-[13:49:25] [Server thread/WARN]: COIN-DAAL moved too quickly! -4.904059675740257,0.0,9.027878647063574
-[13:56:18] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[13:56:18] [Server thread/INFO]: GdBoy26 left the game
-[13:56:21] [Server thread/INFO]: GdBoy26[/100.79.160.35:62835] logged in with entity id 26744 at (262.9706309638896, 64.0, 369.0797986394183)
-[13:56:21] [Server thread/INFO]: GdBoy26 joined the game
-[14:00:12] [Server thread/INFO]: NottSharkk[/100.99.114.79:55164] logged in with entity id 27710 at (274.40286038390417, 99.0, 405.32620644224204)
-[14:00:12] [Server thread/INFO]: NottSharkk joined the game
-[14:01:50] [Server thread/INFO]: NottSharkk lost connection: Disconnected
-[14:01:50] [Server thread/INFO]: NottSharkk left the game
-[14:07:43] [Server thread/INFO]: [Not Secure] <GdBoy26> leave
-[14:07:47] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[14:07:47] [Server thread/INFO]: COIN-DAAL left the game
-[14:07:50] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:58338] logged in with entity id 29429 at (299.30000001192093, 62.0, 312.4439389467378)
-[14:07:50] [Server thread/INFO]: COIN-DAAL joined the game
-[14:12:58] [Server thread/INFO]: GdBoy26 has made the advancement [Getting an Upgrade]
-[14:19:17] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[14:19:17] [Server thread/INFO]: GdBoy26 left the game
-[14:19:20] [Server thread/INFO]: GdBoy26[/100.79.160.35:59491] logged in with entity id 32192 at (305.6875, 56.5875, 313.0770456628772)
-[14:19:20] [Server thread/INFO]: GdBoy26 joined the game
-[14:23:46] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[14:23:46] [Server thread/INFO]: GdBoy26 left the game
-[14:23:49] [Server thread/INFO]: GdBoy26[/100.79.160.35:57114] logged in with entity id 33369 at (276.15219030607165, 96.0, 408.0563314578694)
-[14:23:49] [Server thread/INFO]: GdBoy26 joined the game
-[14:25:25] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[14:25:25] [Server thread/INFO]: GdBoy26 left the game
-[14:25:34] [Server thread/INFO]: GdBoy26[/100.79.160.35:64450] logged in with entity id 33977 at (308.75312170269746, 61.0, 315.32688152304354)
-[14:25:34] [Server thread/INFO]: GdBoy26 joined the game
-[14:27:46] [Server thread/INFO]: GdBoy26 hit the ground too hard
-[14:32:13] [Server thread/INFO]: NottSharkk[/100.99.114.79:54518] logged in with entity id 35994 at (278.3688148124753, 98.0, 405.81304965890763)
-[14:32:13] [Server thread/INFO]: NottSharkk joined the game
-[14:37:53] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[14:37:53] [Server thread/INFO]: COIN-DAAL left the game
-[14:38:00] [Server thread/INFO]: NottSharkk lost connection: Disconnected
-[14:38:00] [Server thread/INFO]: NottSharkk left the game
-[14:38:04] [Server thread/INFO]: NottSharkk[/100.99.114.79:63234] logged in with entity id 37686 at (300.5649901768356, 60.0, 312.69999998807907)
-[14:38:04] [Server thread/INFO]: NottSharkk joined the game
-[14:38:06] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:52368] logged in with entity id 37770 at (309.07854141225994, 72.0, 370.41985300385994)
-[14:38:06] [Server thread/INFO]: COIN-DAAL joined the game
-[14:56:03] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[14:56:03] [Server thread/INFO]: COIN-DAAL left the game
-[14:56:49] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:52443] logged in with entity id 42854 at (240.9852981488356, 62.9375, 357.69999998807907)
-[14:56:49] [Server thread/INFO]: COIN-DAAL joined the game
-[14:56:53] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[14:56:53] [Server thread/INFO]: COIN-DAAL left the game
-[14:57:03] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:52459] logged in with entity id 42914 at (241.62714721729319, 63.0, 355.9453038815872)
-[14:57:03] [Server thread/INFO]: COIN-DAAL joined the game
-[15:08:24] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[15:08:24] [Server thread/INFO]: GdBoy26 left the game
-[15:08:27] [Server thread/INFO]: GdBoy26[/100.79.160.35:59558] logged in with entity id 45660 at (285.40754074272655, 97.0, 370.7232242216105)
-[15:08:27] [Server thread/INFO]: GdBoy26 joined the game
-[15:08:39] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[15:08:39] [Server thread/INFO]: COIN-DAAL left the game
-[15:17:05] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:55205] logged in with entity id 47599 at (278.6541580438896, 96.0, 392.46845721054206)
-[15:17:05] [Server thread/INFO]: COIN-DAAL joined the game
-[15:19:59] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[15:19:59] [Server thread/INFO]: COIN-DAAL left the game
-[15:20:00] [Server thread/INFO]: NottSharkk lost connection: Disconnected
-[15:20:00] [Server thread/INFO]: NottSharkk left the game
-[15:20:05] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:55230] logged in with entity id 48304 at (309.77094060124654, 66.0, 356.7984103022954)
-[15:20:05] [Server thread/INFO]: COIN-DAAL joined the game
-[15:20:05] [Server thread/INFO]: NottSharkk[/100.99.114.79:59208] logged in with entity id 48335 at (305.83776457473095, 62.9375, 312.018272540798)
-[15:20:05] [Server thread/INFO]: NottSharkk joined the game
-[15:21:16] [Server thread/INFO]: COIN-DAAL fell from a high place
-[15:21:36] [Server thread/INFO]: SASRPLAYS[/127.0.0.1:60407] logged in with entity id 48761 at (272.30000001192093, 98.0, 412.30000001192093)
-[15:21:36] [Server thread/INFO]: SASRPLAYS joined the game
-[15:21:44] [Server thread/INFO]: [Not Secure] <SASRPLAYS> yo
-[15:22:10] [Server thread/INFO]: [Not Secure] <GdBoy26> join vc first
-[15:22:14] [Server thread/INFO]: [Not Secure] <SASRPLAYS> ok
-[15:22:33] [Server thread/INFO]: SASRPLAYS lost connection: Disconnected
-[15:22:33] [Server thread/INFO]: SASRPLAYS left the game
-[15:23:36] [Server thread/INFO]: SASRPLAYS[/127.0.0.1:56134] logged in with entity id 49215 at (252.46594041176584, 96.0, 392.681654156241)
-[15:23:36] [Server thread/INFO]: SASRPLAYS joined the game
-[15:30:54] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[15:30:54] [Server thread/INFO]: COIN-DAAL left the game
-[15:30:59] [Server thread/INFO]: NottSharkk lost connection: Disconnected
-[15:30:59] [Server thread/INFO]: NottSharkk left the game
-[15:31:00] [Server thread/INFO]: SASRPLAYS lost connection: Disconnected
-[15:31:00] [Server thread/INFO]: SASRPLAYS left the game
-[15:31:03] [Server thread/INFO]: SASRPLAYS[/127.0.0.1:56147] logged in with entity id 50913 at (306.4473272417279, 62.9375, 302.0492715055187)
-[15:31:03] [Server thread/INFO]: SASRPLAYS joined the game
-[15:31:07] [Server thread/INFO]: NottSharkk[/100.99.114.79:64805] logged in with entity id 51005 at (307.12196149309256, 62.9375, 305.3119233771858)
-[15:31:07] [Server thread/INFO]: NottSharkk joined the game
-[15:36:44] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:55708] logged in with entity id 52295 at (302.3488592664939, 62.9375, 316.8201156497175)
-[15:36:44] [Server thread/INFO]: COIN-DAAL joined the game
-[15:37:13] [Server thread/WARN]: COIN-DAAL moved too quickly! -5.066887112077154,2.7461092740512356,8.595156522685556
-[15:40:54] [Server thread/INFO]: NottSharkk fell from a high place
-[15:43:54] [Server thread/INFO]: SASRPLAYS has made the advancement [Take Aim]
-[15:45:45] [Server thread/INFO]: [Not Secure] <SASRPLAYS> sleeep
-[15:46:05] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[15:46:05] [Server thread/INFO]: COIN-DAAL left the game
-[15:46:05] [Server thread/INFO]: SASRPLAYS lost connection: Disconnected
-[15:46:05] [Server thread/INFO]: SASRPLAYS left the game
-[15:46:07] [Server thread/INFO]: NottSharkk lost connection: Disconnected
-[15:46:07] [Server thread/INFO]: NottSharkk left the game
-[15:46:09] [Server thread/INFO]: SASRPLAYS[/127.0.0.1:56182] logged in with entity id 55161 at (266.21396156410685, 97.0, 389.02559234896034)
-[15:46:09] [Server thread/INFO]: SASRPLAYS joined the game
-[15:46:10] [Server thread/INFO]: NottSharkk[/100.99.114.79:50287] logged in with entity id 55173 at (312.90104363032503, 63.9375, 316.5117456128326)
-[15:46:10] [Server thread/INFO]: NottSharkk joined the game
-[15:46:15] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:54905] logged in with entity id 55251 at (309.9686773299619, 63.9375, 318.20493249910766)
-[15:46:15] [Server thread/INFO]: COIN-DAAL joined the game
-[15:55:07] [Server thread/INFO]: NottSharkk fell from a high place
-[15:55:32] [Netty NIO IO #7/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
-java.io.IOException: An established connection was aborted by the software in your host machine
-	at java.base/sun.nio.ch.SocketDispatcher.writev0(Native Method)
-	at java.base/sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:62)
-	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:227)
-	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:158)
-	at java.base/sun.nio.ch.SocketChannelImpl.implWrite(SocketChannelImpl.java:592)
-	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:626)
-	at io.netty.channel.socket.nio.NioSocketChannel.doWrite(NioSocketChannel.java:423)
-	at io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:802)
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.forceFlush(AbstractNioChannel.java:411)
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:439)
-	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
-	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
-	at io.netty.channel.nio.NioIoHandler.processSelectedKeysPlain(NioIoHandler.java:541)
-	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:514)
-	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1516)
-[15:55:32] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[15:55:32] [Server thread/INFO]: COIN-DAAL left the game
-[15:55:57] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:61293] logged in with entity id 58796 at (274.07726357535006, 96.0, 365.6385990984365)
-[15:55:57] [Server thread/INFO]: COIN-DAAL joined the game
-[15:56:27] [Server thread/INFO]: COIN-DAAL lost connection: Timed out
-[15:56:27] [Server thread/INFO]: COIN-DAAL left the game
-[15:56:34] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:55074] logged in with entity id 58990 at (267.3771084637228, 97.79673560066871, 379.21154143771736)
-[15:56:34] [Server thread/INFO]: COIN-DAAL joined the game
-[15:56:51] [Server thread/INFO]: COIN-DAAL was doomed to fall by NottSharkk
-[15:56:58] [Server thread/INFO]: COIN-DAAL was doomed to fall by NottSharkk
-[15:57:05] [Server thread/INFO]: COIN-DAAL was doomed to fall by NottSharkk
-[15:57:24] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[15:57:24] [Server thread/INFO]: GdBoy26 left the game
-[15:57:40] [Server thread/INFO]: SASRPLAYS lost connection: Disconnected
-[15:57:40] [Server thread/INFO]: SASRPLAYS left the game
-[15:57:45] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[15:57:45] [Server thread/INFO]: COIN-DAAL left the game
-[15:57:45] [Server thread/INFO]: SASRPLAYS[/127.0.0.1:56224] logged in with entity id 59590 at (659.8663827187871, -35.0, 419.6785491529397)
-[15:57:45] [Server thread/INFO]: SASRPLAYS joined the game
-[15:57:48] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:56950] logged in with entity id 59825 at (253.840864368139, 62.0, 376.28263666413557)
-[15:57:48] [Server thread/INFO]: COIN-DAAL joined the game
-[15:57:58] [Server thread/INFO]: GdBoy26[/100.79.160.35:62518] logged in with entity id 59875 at (395.1246582779792, 79.0, 449.1903610751873)
-[15:57:58] [Server thread/INFO]: GdBoy26 joined the game
-[16:01:49] [Server thread/INFO]: COIN-DAAL lost connection: Timed out
-[16:01:49] [Server thread/INFO]: COIN-DAAL left the game
-[16:04:28] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:58272] logged in with entity id 62733 at (304.29185296354996, 62.9375, 316.528004720734)
-[16:04:28] [Server thread/INFO]: COIN-DAAL joined the game
-[16:07:05] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[16:07:05] [Server thread/INFO]: COIN-DAAL left the game
-[16:07:18] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:50509] logged in with entity id 63993 at (517.4898856975922, 72.0, 427.5297726909029)
-[16:07:18] [Server thread/INFO]: COIN-DAAL joined the game
-[16:08:34] [Server thread/INFO]: GdBoy26 lost connection: Disconnected
-[16:08:34] [Server thread/INFO]: GdBoy26 left the game
-[16:09:22] [Server thread/INFO]: GdBoy26[/100.79.160.35:56247] logged in with entity id 64520 at (418.7298164207481, 78.0, 486.61896212186485)
-[16:09:22] [Server thread/INFO]: GdBoy26 joined the game
-[16:10:55] [Server thread/WARN]: COIN-DAAL moved too quickly! 0.6189693837305867,1.0752008901189498,10.036287506801443
-[16:13:30] [Server thread/INFO]: SASRPLAYS lost connection: Disconnected
-[16:13:30] [Server thread/INFO]: SASRPLAYS left the game
-[16:15:29] [Server thread/WARN]: COIN-DAAL moved too quickly! -8.479269306300182,1.0,5.6180384917523725
-[16:15:51] [Server thread/INFO]: SASRPLAYS[/127.0.0.1:65109] logged in with entity id 66858 at (268.592337308567, 97.0, 376.99493789177143)
-[16:15:51] [Server thread/INFO]: SASRPLAYS joined the game
-[16:17:22] [Server thread/INFO]: SASRPLAYS lost connection: Disconnected
-[16:17:22] [Server thread/INFO]: SASRPLAYS left the game
-[16:20:56] [Server thread/INFO]: [Not Secure] <COIN-DAAL> DC
-[16:21:48] [Server thread/INFO]: Villager Villager['Leatherworker'/62534, l='ServerLevel[world]', x=210.52, y=63.00, z=418.78] died, message: 'Leatherworker was slain by Zombie'
-[16:33:00] [Server thread/WARN]: COIN-DAAL moved too quickly! -1.9588164981419993,-10.099240626142986,0.08796464198468357
-[16:33:10] [Server thread/INFO]: COIN-DAAL was shot by Skeleton
-[16:35:41] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=284, y=63, z=359} BlockPos{x=285, y=61, z=358}
-[16:37:59] [Server thread/WARN]: COIN-DAAL moved too quickly! 0.03773683059782229,0.42355929454303975,-10.27446891501836
-[16:38:30] [Server thread/INFO]: COIN-DAAL lost connection: Disconnected
-[16:38:30] [Server thread/INFO]: COIN-DAAL left the game
-[16:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 168281ms or 3365 ticks behind
-[16:42:32] [Server thread/WARN]: NottSharkk moved too quickly! 1.148053918330362,1.0244240882136921,10.035920592788727
-[16:42:40] [Server thread/INFO]: COIN-DAAL[/100.81.104.17:57875] logged in with entity id 72874 at (291.30000001192093, 96.0, 402.745240258265)
-[16:42:40] [Server thread/INFO]: COIN-DAAL joined the game
+[21:42:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:43:00] [ServerMain/INFO]: Loaded 1515 recipes
+[21:43:00] [ServerMain/INFO]: Loaded 1617 advancements
+[21:43:00] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[21:43:00] [Server thread/INFO]: Loading properties
+[21:43:00] [Server thread/INFO]: Default game type: SURVIVAL
+[21:43:00] [Server thread/INFO]: Generating keypair
+[21:43:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:43:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:43:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:43:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:43:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:43:00] [Server thread/INFO]: Preparing level "world"
+[21:43:01] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:43:01] [Server thread/INFO]: Preparing spawn area: 100%
+[21:43:01] [Server thread/INFO]: Time elapsed: 96 ms
+[21:43:01] [Server thread/INFO]: Done (0.562s)! For help, type "help"
+[21:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:43:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:43:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:43:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:43:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:44:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:44:16] [Server thread/INFO]: GdBoy26[/100.79.160.35:50699] logged in with entity id 78 at (260.0843887987965, 96.0, 371.92658962076644)
+[21:44:16] [Server thread/INFO]: GdBoy26 joined the game
+[22:14:29] [Server thread/INFO]: [Not Secure] [Server] GD run the server in your laptop na now :) i wanna play another game now
+[22:14:39] [Server thread/INFO]: [Not Secure] <GdBoy26> how do i ?
+[22:14:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[22:14:48] [Server thread/INFO]: ill show you<--[HERE]
